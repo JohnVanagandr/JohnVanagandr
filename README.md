@@ -44,15 +44,6 @@ Si estás construyendo tu marca personal en GitHub, aquí te dejo los secretos a
 3.  **Uso de Citas (Blockquotes):** Usar el símbolo `>` permite resaltar consejos importantes o notas, rompiendo la monotonía del texto plano.
 4.  **Métricas Dinámicas:** Mostrar datos visuales genera autoridad.
 
----
-
-## 📊 Mi Actividad (Ejemplo de Estadísticas Visuales)
-
-<div align="center">
-  <!-- Recuerda cambiar [TuUsuario] por tu nombre de usuario real en GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnVanagandr&theme=tokyonight&show_icons=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVanagandr&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Top" />
-</div>
 
 ---
 
