@@ -1,63 +1,68 @@
-# Hola, soy John Becerra 👋
-### 👨‍💻 Instructor de Desarrollo de Software | SENA | Arquitecto de Soluciones
-
-Apasionado por la tecnología, el diseño de arquitecturas escalables y la formación del nuevo talento tecnológico. Como instructor en el SENA, mi objetivo es transformar el código en oportunidades, guiando a los aprendices desde los fundamentos lógicos hasta la implementación de software de calidad profesional. 
-
-Creo firmemente en un modelo de educación que combina la exigencia técnica con metodologías dinámicas, asegurando que el aprendizaje sea tan robusto como el código que escribimos.
-
----
-
-## 🎯 Mi Filosofía de Enseñanza
-
-Mi enfoque pedagógico está diseñado para el nicho de la educación técnica profesional, estructurando el aprendizaje en las cuatro fases clave de la formación por competencias:
-1. **Reflexión Inicial:** Despertar la curiosidad y entender el "por qué" detrás del código.
-2. **Contextualización:** Analizar el entorno del problema (desde la arquitectura de red y protocolos TCP/IP hasta la experiencia de usuario).
-3. **Apropiación:** Codificación pura, aplicando patrones de diseño y buenas prácticas.
-4. **Transferencia:** Proyectos reales, simulaciones y gamificación (sí, ¡mucho Kahoot! 🎮) para validar el conocimiento.
+<div align="center">
+  <h1>¡Hola! Soy John Becerra 👨‍🏫💻</h1>
+  <h3>Instructor SENA | Apasionado por la Mejora Continua y el Desarrollo Web</h3>
+  <p><i>"Enseñando a construir la web, una línea de código a la vez."</i></p>
+</div>
 
 ---
 
-## 🛠️ Stack Tecnológico y Estándares
+## 🚀 Sobre Mí y Mi Propósito
 
-No solo enseño a programar; enseño a crear software mantenible y arquitectónicamente limpio.
+¡Bienvenidos a mi perfil! Como instructor en el **SENA**, mi objetivo principal no es solo escribir código, sino **enseñar a pensar y estructurar como desarrolladores profesionales**. 
 
-### 🌐 Frontend (Interfaces Modulares)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-* **Enfoque:** Diseño de componentes modulares, layouts reutilizables y organización de directorios orientada a *features*.
+Mi mayor motivación es la **mejora continua**: aprender cada día, refinar mis habilidades y transmitir ese conocimiento de la forma más clara, visual y efectiva posible. 
 
-### ⚙️ Backend (Arquitectura y APIs)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-* **Enfoque:** Desarrollo de APIs RESTful limpias. Implementación estricta de patrones *Service* y *Repository* para extraer la lógica de negocio de los controladores, junto con autenticación vía Sanctum y *middleware* personalizado.
-
-### 🔄 Flujo de Trabajo y DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-* **Enfoque:** Estandarización del desarrollo en equipo utilizando *Git Flow* y la convención estricta de *Conventional Commits*. 
+> 💡 **Nota didáctica para mis aprendices:** *Este perfil está diseñado intencionalmente para servir como ejemplo. Un buen README debe ser limpio, tener jerarquía visual, usar colores estratégicos y contar tu historia profesional. ¡Usen esta estructura como inspiración!*
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 Tecnologías Core: El Lienzo de la Web
 
-> *(Nota de diseño: Aquí puedes integrar las tarjetas dinámicas de GitHub para dar visibilidad a tu actividad. Copia y pega esto en tu README final reemplazando `[TuUsuario]`)*
-
-```text
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TuUsuario]&theme=radical&show_icons=true&hide_border=true)](https://github.com/[TuUsuario])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[TuUsuario]&layout=compact&theme=radical&hide_border=true)](https://github.com/[TuUsuario])
-```
-
----
-
-## 📫 Conectemos
-
-Siempre estoy abierto a charlar sobre desarrollo web, metodologías de enseñanza técnica, arquitectura de redes o simulaciones de sistemas.
-
-- 💼 **LinkedIn:** [Tu Perfil de LinkedIn](#)
-- 📧 **Email:** [Tu Correo de Contacto](#)
-- 🏢 **SENA:** Instructor Técnico Profesional en Programación de Soluciones de Software
+Me especializo y disfruto enormemente enseñando la "Trinidad de la Web". Creo que dominar estas bases es el pilar inquebrantable de cualquier gran desarrollador frontend. 
 
 <div align="center">
-  <i>"El buen código se escribe una vez, pero se lee y se enseña mil veces."</i>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
+
+<br>
+
+### 📌 ¿Por qué el enfoque en estas tecnologías?
+*   **HTML5 (Estructura y Semántica):** Enseño a construir cimientos sólidos. No se trata solo de poner etiquetas, sino de accesibilidad, SEO y una estructura lógica impecable.
+*   **CSS3 (Diseño y Experiencia):** Los colores y la disposición importan. Desde Flexbox hasta Grid, enseño cómo dar vida a las interfaces logrando que el código sea tan hermoso como el resultado visual.
+*   **JavaScript (Lógica y Dinamismo):** El motor de la web. Me enfoco en la manipulación del DOM, la lógica pura y el dinamismo que transforma una página estática en una experiencia interactiva.
+
+---
+
+## 📚 Elementos de un Buen Diseño de Perfil (¡Aprende de este ejemplo!)
+
+Si estás construyendo tu marca personal en GitHub, aquí te dejo los secretos aplicados en este mismo documento:
+
+1.  **Alineación y Espaciado:** Usar etiquetas HTML como `<div align="center">` o `<br>` dentro del Markdown ayuda a respirar al texto.
+2.  **Psicología del Color:** Los *badges* (insignias) de tecnologías usan sus colores oficiales (Naranja para HTML, Azul para CSS, Amarillo para JS). Esto crea reconocimiento visual inmediato.
+3.  **Uso de Citas (Blockquotes):** Usar el símbolo `>` permite resaltar consejos importantes o notas, rompiendo la monotonía del texto plano.
+4.  **Métricas Dinámicas:** Mostrar datos visuales genera autoridad.
+
+---
+
+## 📊 Mi Actividad (Ejemplo de Estadísticas Visuales)
+
+<div align="center">
+  <!-- Recuerda cambiar [TuUsuario] por tu nombre de usuario real en GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnVanagandr&theme=tokyonight&show_icons=true&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVanagandr&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Top" />
+</div>
+
+---
+
+## 📫 Conectemos y Sigamos Aprendiendo
+
+La educación es un camino de doble vía y el código es mejor cuando se comparte. Siempre estoy abierto a conectar y hablar sobre cómo mejorar nuestras prácticas de desarrollo.
+
+- 🏢 **SENA:** Instructor Técnico Profesional
+- ✉️ **Email:** jfbeccera@gmail.com
+
+<div align="center">
+  <p><i>"El aprendizaje nunca agota la mente. Mantente curioso, mantente programando."</i></p>
 </div>
