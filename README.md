@@ -16,7 +16,7 @@ Mi mayor motivación es la **mejora continua**: aprender cada día, refinar mis 
 
 ---
 
-## 🎨 Tecnologías Core: El Lienzo de la Web
+## 🎨 Tecnologías Core: El Lienzo de ADSO
 
 Me especializo y disfruto enormemente enseñando la "Trinidad de la Web". Creo que dominar estas bases es el pilar inquebrantable de cualquier gran desarrollador frontend. 
 
